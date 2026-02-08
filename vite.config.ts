@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/moms-mahjong/',
+  base: './',
   build: {
     outDir: 'dist',
     assetsDir: 'assets',
